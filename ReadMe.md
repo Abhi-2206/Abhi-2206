@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm Abhigyan Ganguly, a tech enthusiast passionate about coding and learning new technologies. Outside tech, I’m a state-level badminton player and a national-level drummer, with a deep love for music and sports.
 🌱 I’m currently learning NodeJS<br>
 
 

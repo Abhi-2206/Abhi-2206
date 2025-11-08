@@ -18,4 +18,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhi-2206&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://github.com/BennyPerumalla">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/maiqingqiang/maiqingqiang@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/maiqingqiang/maiqingqiang@output/github-contribution-grid-snake.svg">
+  <img width='60%' alt="github-snake" src="https://cdn.jsdelivr.net/gh/maiqingqiang/maiqingqiang@output/github-contribution-grid-snake.svg">
+</picture>
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

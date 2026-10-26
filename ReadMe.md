@@ -1,167 +1,245 @@
-# Hey, I'm Abhigyan Ganguly 👋
+ <!-- Profile header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+Newton+School+of+Technology;Full-Stack+Developer+in+Progress;Building+Web+%26+Mobile+Applications;Exploring+AI+%26+Open+Source" alt="Animated introduction" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D2818,100:39D353&height=220&section=header&text=ABHIGYAN%20GANGULY&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=15&descAlignY=57&animation=twinkling" alt="Animated green profile banner"/>
 
-<p align="center">
-  <a href="https://github.com/Abhi-2206">
-    <img src="https://img.shields.io/badge/GitHub-Abhi--2206-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/Abhi-2206?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Projects-238636?style=for-the-badge&logo=github" alt="Projects"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=Building+things+that+solve+real+problems;Learning+DSA+one+problem+at+a+time;Exploring+Open+Source+%7C+GSoC+2027;Turning+ideas+into+working+software" alt="Animated typing introduction"/>
+</a>
 
----
+<br/>
 
-## 💫 About Me
+<a href="https://github.com/Abhi-2206">
+<img src="https://komarev.com/ghpvc/?username=Abhi-2206&style=for-the-badge&color=39D353&label=PROFILE+VISITORS" alt="Profile visitors"/>
+</a>
+<a href="https://github.com/Abhi-2206?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0D2818?style=for-the-badge&logo=github&logoColor=39D353" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/Abhi-2206?tab=followers">
+<img src="https://img.shields.io/github/followers/Abhi-2206?style=for-the-badge&color=0D2818&labelColor=050505&logo=github" alt="GitHub followers"/>
+</a>
 
-I'm a second-year **B.Tech Computer Science student at Newton School of Technology, ADYPU**, passionate about software development, problem-solving, and building useful applications.
-
-- 💻 Learning by building real-world projects.
-- 🌐 Exploring full-stack and backend development.
-- 📱 Developing web, mobile, and desktop applications.
-- 🤖 Experimenting with AI integrations and workflow automation.
-- 🧠 Strengthening my Data Structures & Algorithms skills.
-- 🎯 Working towards software engineering internships.
-
-> Build. Break. Debug. Learn. Repeat.
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## `whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,reactnative,nodejs,express,electron,postgres,prisma,mongodb,git,github,vscode&perline=8" alt="My technology stack"/>
-</p>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Abhigyan Ganguly"
+        self.role = "B.Tech CSE Student"
+        self.languages = ["Python", "C++", "JavaScript"]
+        self.interests = [
+            "Software Engineering",
+            "Data Structures & Algorithms",
+            "Open Source",
+            "Automation"
+        ]
+        self.current_focus = [
+            "Competitive Programming",
+            "Backend Development",
+            "GSoC 2027 Preparation"
+        ]
+
+    def mindset(self):
+        return "Build. Break. Learn. Repeat."
+
+me = Developer()
+print(me.mindset())
+```
+
+I'm a second-year Computer Science student who enjoys building useful software, learning how systems work, and improving my problem-solving skills.
+
+Currently exploring backend development, competitive programming, open source, and projects that go beyond basic tutorials.
+
+<details>
+<summary><b>⚡ More about me</b></summary>
+
+<br/>
+
+- 🎓 B.Tech CSE — Newton School of Technology, ADYPU
+- 💻 Working with frontend, backend, databases, and automation tools
+- 🧠 Practising DSA and competitive programming
+- 🌱 Preparing for open-source contributions and GSoC 2027
+- 🥁 National-level 3rd rank in drum playing
+- 🏸 State-level badminton experience
+- 🎯 Long-term goal: become a strong software engineer and build impactful products
+
+</details>
+
+## `./tech-stack`
+
+<div align="center">
 
 ### Languages
-- Python
-- C++
-- JavaScript
 
-### Frontend Development
-- HTML5
-- CSS3
-- React
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Python, C++, and JavaScript"/>
 
-### Mobile & Desktop Development
-- React Native
-- Electron
+### Frontend & App Development
 
-### Backend Development
-- Node.js
-- Express.js
-- REST APIs
+<img src="https://skillicons.dev/icons?i=html,css,react,reactnative,electron&theme=dark" alt="HTML, CSS, React, React Native, and Electron"/>
 
-### Databases & ORM
-- PostgreSQL
-- MongoDB
-- Prisma ORM
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB, and Prisma"/>
 
 ### Tools & Automation
-- Git & GitHub
-- VS Code
-- n8n
-- AI API integration and prompt engineering
 
-**Currently focusing on:** Data Structures & Algorithms, backend development, database design, and building complete applications.
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code"/>
 
----
+<img src="https://img.shields.io/badge/n8n-Automation-0D2818?style=for-the-badge&logo=n8n&logoColor=39D353" alt="n8n automation"/>
+<img src="https://img.shields.io/badge/REST_APIs-Integration-0D2818?style=for-the-badge&logo=fastapi&logoColor=39D353" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/AI_API_Integration-Exploring-0D2818?style=for-the-badge&logo=openai&logoColor=39D353" alt="AI API integration"/>
 
-## 🚀 Featured Projects
+</div>
 
-### 📸 Mini-Insta
-A backend development project focused on REST APIs, database integration, and server-side application architecture.
+<details>
+<summary><b>🔍 What I'm learning right now</b></summary>
 
-**Tech Stack:** Node.js · Express.js · Prisma · PostgreSQL
+| Area | Focus |
+|---|---|
+| DSA | Trees, heaps, graphs, backtracking, and dynamic programming |
+| Competitive programming | C++ and problem-solving techniques |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | PostgreSQL, MongoDB, Prisma |
+| Open source | Understanding codebases, issues, and contributions |
+| Automation | n8n workflows and API integrations |
 
-🔗 [View Repository](https://github.com/Abhi-2206/mini-insta)
+</details>
 
-### 🌦️ SkyCast
-A weather application built to explore frontend development and integration with a real-world weather API.
+## `./featured-projects`
 
-**Tech Stack:** React · JavaScript · Open-Meteo API
+<div align="center">
 
-🔗 [Explore My Repositories](https://github.com/Abhi-2206?tab=repositories)
+<a href="https://github.com/Abhi-2206/mini-insta">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-2206&repo=mini-insta&theme=transparent&title_color=39D353&text_color=9CA3AF&icon_color=39D353&border_color=1B4332" alt="Mini-Insta project card"/>
+</a>
+<a href="https://github.com/Abhi-2206/expense-tracker-nine-mu-65">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-2206&repo=expense-tracker-nine-mu-65&theme=transparent&title_color=39D353&text_color=9CA3AF&icon_color=39D353&border_color=1B4332" alt="Expense Tracker project card"/>
+</a>
 
-### 💸 Expense Tracker
-A personal finance tracking application focused on interactive user interfaces and application state management.
+</div>
 
-🔗 [View Project](https://github.com/Abhi-2206/expense-tracker-nine-mu-65)
+<details>
+<summary><b>📸 Mini-Insta — Backend Development</b></summary>
 
-### 🤖 LeadGenAI
-An AI-powered lead generation and workflow automation project connecting automated workflows with structured lead data.
+**Stack:** Node.js · Express.js · Prisma · PostgreSQL
 
-**Tech Stack:** n8n · Groq · Google Sheets
+A backend project for practising API development, database integration, and user-related operations.
 
-🔗 [Explore My Repositories](https://github.com/Abhi-2206?tab=repositories)
+**What I'm practising**
+- REST API design
+- Database models and relationships
+- CRUD operations
+- Error handling and backend structure
 
----
+[**Open repository →**](https://github.com/Abhi-2206/mini-insta)
 
-## 📊 GitHub Analytics
+</details>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi-2206&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2206&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-</p>
+<details>
+<summary><b>💸 Expense Tracker — Web Development</b></summary>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhi-2206&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+A project focused on building an expense-tracking application and practising practical web development.
 
----
+[**Open repository →**](https://github.com/Abhi-2206/expense-tracker-nine-mu-65)
 
-## 🔥 My Contribution Heatmap
+</details>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/39D353/Abhi-2206"
-    alt="Abhigyan's green GitHub contribution heatmap"
-    width="100%"
-  />
-</p>
+<details>
+<summary><b>🌦️ SkyCast — Weather App</b></summary>
 
-<p align="center">
-  <i>One contribution at a time. Keep building! 🚀</i>
-</p>
+**Stack:** React · JavaScript · Open-Meteo API
 
----
+A weather application exploring API integration and displaying weather information in a frontend interface.
 
-## 🎯 Current Goals
+[**Explore my repositories →**](https://github.com/Abhi-2206?tab=repositories)
 
-- [ ] Improve consistency in DSA and competitive programming.
-- [ ] Build and ship meaningful full-stack projects.
-- [ ] Strengthen backend and database fundamentals.
-- [ ] Contribute to open-source projects.
-- [ ] Prepare for software engineering internships.
+</details>
 
----
+<details>
+<summary><b>⚙️ LeadGenAI — Workflow Automation</b></summary>
 
-## 🏆 Beyond Coding
+**Stack:** n8n · Groq · Google Sheets
 
-- 🥁 **National-level 3rd rank** in drum playing.
-- 🏸 **State-level badminton** experience.
-- 🚀 Participating in hackathons and exploring collaborative software development.
+An automation project exploring lead-generation workflows, API integration, and moving information between services.
 
----
+[**Explore my repositories →**](https://github.com/Abhi-2206?tab=repositories)
 
-## 🤝 Let's Connect
+</details>
 
-<p align="center">
-  <a href="https://github.com/Abhi-2206">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Always learning, always building. Thanks for visiting my profile!</i>
-</p>
+<a href="https://github.com/Abhi-2206?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-39D353?style=for-the-badge&logo=github&logoColor=000000" alt="View all projects"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=120&section=footer" alt="Green footer banner"/>
-</p>
+</div>
+
+## `./github-analytics`
+
+<div align="center">
+
+<a href="https://github.com/Abhi-2206">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhi-2206&show_icons=true&theme=transparent&title_color=39D353&icon_color=39D353&text_color=9CA3AF&border_color=1B4332&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Abhi-2206">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2206&layout=compact&theme=transparent&title_color=39D353&text_color=9CA3AF&border_color=1B4332" alt="Most-used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Abhi-2206&theme=dark&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+### Contribution grid
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39D353/Abhi-2206" width="100%" alt="Green GitHub contribution heatmap"/>
+
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abhi-2206/Abhi-2206/output/github-snake.svg" width="100%" alt="Animated snake eating GitHub contributions"/>
+
+</div>
+
+> **Snake setup:** This image requires the GitHub Actions workflow to generate it and publish it to the `output` branch. The README alone cannot generate the animation. If you want to keep only one file, remove this image section until you have a generated snake image.
+
+## `./current-mission`
+
+- [ ] Become more consistent with DSA and competitive programming
+- [ ] Strengthen C++ and algorithmic problem-solving
+- [ ] Build projects that solve real problems
+- [ ] Contribute to open-source projects
+- [ ] Prepare for GSoC 2027
+- [ ] Work towards software engineering internships
+
+## `./connect`
+
+<div align="center">
+
+<a href="https://github.com/Abhi-2206">
+<img src="https://img.shields.io/badge/GitHub-Explore_my_code-0D2818?style=for-the-badge&logo=github&logoColor=39D353" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D2818?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Abhi-2206?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Build_something-0D2818?style=for-the-badge&logo=github&logoColor=39D353" alt="Projects"/>
+</a>
+
+<br/><br/>
+
+*"The best way to learn is to build something, break it, and understand why."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:0D2818,100:050505&height=120&section=footer" alt="Animated green footer"/>
+
+</div>
